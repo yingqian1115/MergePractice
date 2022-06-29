@@ -1,0 +1,8 @@
+// 加了會給相對應的提示
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"
+        ]
+    }
+}
